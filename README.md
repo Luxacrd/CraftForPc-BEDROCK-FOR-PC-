@@ -1,2 +1,3 @@
 # CraftForPc-BEDROCK-FOR-PC-
 ...
+Read The Readme In The File.. Not Here
